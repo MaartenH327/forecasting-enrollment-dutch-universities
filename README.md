@@ -1,4 +1,8 @@
-WIP
+### Abstract
+
+Every year, the Faculty of Economics and Business (FEB) of the University of Amsterdam faces a recurring challenge: how many students will enrol in September? The answer determines how efficiently the faculty can allocate schedules, staff, and scarce financial resources. Without accurate and timely predictions, universities are at risk of having understaffed courses, overbooked classrooms, or wasted budget. Recent work at Radboud University has shown that combining Studielink (the centralized Dutch application system) data with their internal student information system enables enrolment forecasts months in advance. However such approaches are not suitable for the context of the FEB. The Bayesian multilevel model developed in this thesis addresses key limitations of existing enrolment forecasting methods in the Netherlands by introducing a segmentation framework based on students' nationality and prior experience in Dutch higher education. The segmentation approach provided improves transparency and provides accessible insights to decision-makers who often rely on experience-based heuristics. As the dataset grows, the approach can be developed into a dynamic forecasting dashboard to support ongoing decision-making.
+
+---
 
 For more context read the Thesis.pdf 
 
